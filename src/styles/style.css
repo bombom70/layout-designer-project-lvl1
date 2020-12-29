@@ -1,1 +1,43 @@
 /** CSS STYLE **/
+:root {
+    --white-color: #fff;
+    --clear-white-color: #f5f4f0;
+    --bright-color: #f5f4f0;
+    --main-color: #fe8a02;
+    --main-dark-color: #42413c;
+    --dark-color: #2a2626;
+    --clear-dark-color: #908d8b;
+    --brown-color: #b09a81;
+    --blue-color: #1085c5;
+
+    --main-font: 'Open Sansa';
+    --head-font: 'Neucha';
+    --size-font: 16px;
+    --space-beetwen-str: 1.6em;
+    --color-font: #2A2626;
+
+    --space-beetwen-head: 1.2em;
+    --size-head-one: 72px;
+    --size-head-two: 60px;
+    --size-head-three: 34px;
+
+    --min-size-content: 1110px;
+    --center-content: center;
+    --margin-top-bottom: 100px;
+}
+
+body {
+    font-family: 'Open Sans';
+}
+
+h1 {
+    font-family: 'Neucha';
+}
+.content {
+    min-width: var(--min-size-content);
+    display: flex;
+    justify-content: center;
+    background: red;
+
+    margin: var(--margin-top-bottom) 0px;
+}
