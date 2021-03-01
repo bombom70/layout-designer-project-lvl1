@@ -82,18 +82,6 @@ header {
   height: 914px;
 }
 
-button:hover {
-  background: #ea7600;
-}
-
-.nav-item:hover {
-  background: #fe8a02;
-}
-.nav-item:hover a,
-.nav-item:hover p {
-  color:white;
-}
-
 .bg {
   background: var(--bright-color);
 }
@@ -574,4 +562,17 @@ iframe {
 
 .p-top-100px {
   padding-top: 100px;
+}
+
+button:hover {
+  background: #ea7600;
+}
+
+.nav-item:hover {
+  background: #fe8a02;
+}
+
+.nav-item:hover a,
+.nav-item:hover p {
+  color: white;
 }
