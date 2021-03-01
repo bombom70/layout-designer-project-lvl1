@@ -82,8 +82,16 @@ header {
   height: 914px;
 }
 
-.h-814 {
-  height: 914px;
+button:hover {
+  background: #ea7600;
+}
+
+.nav-item:hover {
+  background: #fe8a02;
+}
+.nav-item:hover a,
+.nav-item:hover p {
+  color:white;
 }
 
 .bg {
