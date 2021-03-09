@@ -255,7 +255,6 @@ header {
 .video {
   position: absolute;
 
-  top: 430px;
   right: 0;
   left: 0;
 
@@ -278,6 +277,10 @@ header {
 
 .nav-item {
   background: var(--white-color);
+}
+
+.mg-30px {
+  margin: 30px auto;
 }
 
 .nav-item,
@@ -447,8 +450,8 @@ header {
   font-size: 24px;
 }
 
-.mg-bottom-30px {
-  margin: 30px;
+.mg-auto {
+  margin: auto;
 }
 
 .mg-l-30px {
