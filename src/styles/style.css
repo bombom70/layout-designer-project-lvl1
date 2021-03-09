@@ -220,6 +220,10 @@ header {
   height: 914px;
 }
 
+.content-item-1 {
+  height: 814px;
+}
+
 .bg-white {
   background: var(--white-color);
 }
