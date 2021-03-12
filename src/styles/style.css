@@ -153,6 +153,11 @@ header {
   padding: 100px 15px;
 }
 
+.nav-set {
+  width: 1300px;
+  margin: 0 auto;
+}
+
 .overflow-x-hidden {
   overflow-x: hidden;
 }
