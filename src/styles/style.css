@@ -107,10 +107,6 @@ header {
   content: '';
 }
 
-.h-1000px {
-  height: 1000px;
-}
-
 .color-clear-dark {
   color: var(--clear-dark-color);
 }
@@ -239,6 +235,10 @@ header {
 /* maim blog */
 .content-item {
   /* height: 914px; */
+}
+
+.h-914px {
+  height: 914px;
 }
 
 .content-item-1 {
