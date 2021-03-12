@@ -226,7 +226,7 @@ header {
 
 /* maim blog */
 .content-item {
-  height: 914px;
+  /* height: 914px; */
 }
 
 .content-item-1 {
@@ -284,8 +284,8 @@ header {
   background: var(--main-dark-color);
 }
 
-.padding-top-200 {
-  padding-top: 200px;
+.padding-t-200-b-100 {
+  padding: 200px 0 100px 0;
 }
 
 .nav-item {
@@ -434,7 +434,9 @@ header {
 .mg-top-100px {
   margin-top: 100px;
 }
-
+.mg-top-90px {
+  margin-top: 90px;
+}
 .top-16px {
   top: -16px;
 }
