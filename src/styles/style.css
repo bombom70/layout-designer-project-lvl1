@@ -302,7 +302,7 @@ header {
 
 .nav-item {
   width: 300px;
-  height: 280px;
+  height: 290px;
 
   background: var(--white-color);
 
@@ -332,7 +332,7 @@ header {
 
 .nav-item-header {
   position: relative;
-  top: -10px;
+  top: -20px;
 
   width: 350px;
   height: 300px;
