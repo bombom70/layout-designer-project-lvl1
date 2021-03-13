@@ -278,6 +278,10 @@ header {
 }
 
 .video {
+  position: absolute;
+  right: 0;
+  left: 0;
+
   margin: 0 auto;
 
   filter: drop-shadow(0 16px 32px rgba(0, 0, 0, 0.15));
@@ -341,7 +345,7 @@ header {
 }
 
 .style-num {
-  margin-bottom: 40px;
+  margin: 0 0 40px 0;
 
   font-size: 64px;
   font-family: var(--head-font);
