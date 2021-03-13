@@ -281,7 +281,7 @@ header {
 }
 
 .p-20px {
-  padding: 20px;
+  padding: 20px 0 15px 0;
 }
 
 .j-content-between {
@@ -332,7 +332,7 @@ header {
 
 .nav-item-header {
   position: relative;
-  top: -15px;
+  top: -10px;
 
   width: 350px;
   height: 300px;
