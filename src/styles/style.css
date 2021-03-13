@@ -234,10 +234,6 @@ header {
 
 /* maim blog */
 
-.h-914px {
-  height: 914px;
-}
-
 .content-item-1 {
   height: 814px;
 }
@@ -279,9 +275,13 @@ header {
   right: 0;
   left: 0;
 
-  margin: 0 auto;
+  margin: 10px auto 0 auto;
 
   filter: drop-shadow(0 16px 32px rgba(0, 0, 0, 0.15));
+}
+
+.p-top-20px {
+  padding-top: 20px;
 }
 
 .j-content-between {
@@ -302,12 +302,12 @@ header {
 
 .nav-item {
   width: 300px;
-  height: 280px;
-
-  background: var(--white-color);
+  height: 300px;
 
   margin: 10px 15px;
   padding: 24px;
+
+  background: var(--white-color);
 }
 
 .nav-item a {
@@ -333,6 +333,7 @@ header {
 .nav-item-header {
   position: relative;
   top: -10px;
+
   width: 350px;
   height: 300px;
 
@@ -342,6 +343,7 @@ header {
 .h-814px {
   height: 956px;
 }
+
 .style-num {
   margin: 0 0 40px 0;
 
