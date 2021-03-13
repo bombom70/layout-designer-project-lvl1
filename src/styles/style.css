@@ -161,8 +161,8 @@ header {
   position: relative;
 
   width: 1440px;
-  margin: 0 auto;
-  padding: 150px 15px;
+  margin: auto;
+  padding: 170px 15px;
 }
 
 .nav-set {
