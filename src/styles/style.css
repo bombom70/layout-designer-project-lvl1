@@ -162,7 +162,7 @@ header {
 
   width: 1440px;
   margin: 0 auto;
-  padding: 100px 15px;
+  padding: 150px 15px;
 }
 
 .nav-set {
@@ -233,9 +233,6 @@ header {
 }
 
 /* maim blog */
-.content-item {
-  /* height: 914px; */
-}
 
 .h-914px {
   height: 914px;
