@@ -162,7 +162,7 @@ header {
 
   width: 1440px;
   margin: auto;
-  padding: 170px 0 100px 0;
+  padding: 170px 0 90px 0;
 }
 
 .nav-set {
@@ -304,9 +304,8 @@ header {
   margin: 30px auto;
 }
 
-.nav-item,
-.nav-item-header {
-  width: 353px;
+.nav-item {
+  width: 350px;
   height: 300px;
 
   margin: 10px 15px;
@@ -319,6 +318,10 @@ header {
   font-family: var(--head-font);
 }
 
+.mg-40px {
+  margin-bottom: 40px;
+}
+
 .nav-item-header p {
   margin: 0;
 
@@ -326,19 +329,18 @@ header {
 
   font-family: var(--head-font);
 
-  line-height: 1.2em;
+  line-height: 64px;
 }
 
 .nav-item-header {
   position: relative;
-  top: -12px;
-  left: -5px;
+  top: -20px;
+  
+  width: 350px;
+  height: 300px;
 
-  width: 375px;
-  height: 310px;
-
-  margin-right: 40px;
-  padding: 0;
+  margin: 10px 15px;
+  padding-right: 46px;
 }
 
 .style-num {
