@@ -283,7 +283,7 @@ header {
 }
 
 .p-20px {
-  padding: 20px 5px 10px 0;
+  padding: 20px 3px 10px 0;
 }
 
 .j-content-between {
@@ -333,7 +333,7 @@ header {
 
   font-family: var(--head-font);
 
-  line-height: 64px;
+  line-height: 62px;
 }
 
 .nav-item-header {
