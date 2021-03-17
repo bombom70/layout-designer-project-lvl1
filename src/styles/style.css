@@ -304,7 +304,7 @@ header {
 
 .nav-item {
   width: 300px;
-  height: 280px;
+  height: 300px;
 
   margin: 10px 15px;
   padding: 24px;
@@ -312,10 +312,11 @@ header {
   background: var(--white-color);
 }
 
-.nav-item a {
+.nav-item span {
   font-weight: normal;
   font-size: var(--size-head-three);
   font-family: var(--head-font);
+  line-height: 40px;
 }
 
 .mg-40px {
@@ -353,9 +354,7 @@ header {
 .style-num {
   margin: 0 0 40px 0;
 
-  font-size: 64px;
-  font-family: var(--head-font);
-  line-height: 1;
+  font: 64px/1 'neucha', sans-serif;
 }
 
 .d-block {
@@ -652,7 +651,7 @@ button:hover {
   background: #fe8a02;
 }
 
-.nav-item:hover a,
+.nav-item:hover span,
 .nav-item:hover p {
   color: white;
 }
