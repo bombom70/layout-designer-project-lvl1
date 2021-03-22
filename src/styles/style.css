@@ -272,6 +272,7 @@ header {
 
 .video {
   position: absolute;
+  top: 338px;
   right: 0;
   left: 0;
 
@@ -320,6 +321,7 @@ header {
 .p-b-48px {
   padding-bottom: 48px;
 }
+
 .mg-40px {
   margin-bottom: 40px;
 }
