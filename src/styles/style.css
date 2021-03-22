@@ -281,7 +281,7 @@ header {
 }
 
 .p-20px {
-  padding: 20px 3px 10px 0;
+  padding: 20px 3px 6px 0;
 }
 
 .j-content-between {
@@ -302,9 +302,9 @@ header {
 
 .nav-item {
   width: 300px;
-  height: 290px;
+  height: 276px;
 
-  margin: 10px 15px;
+  margin: 10px 16px;
   padding: 24px;
 
   background: var(--white-color);
@@ -317,6 +317,9 @@ header {
   line-height: 40px;
 }
 
+.p-b-48px {
+  padding-bottom: 48px;
+}
 .mg-40px {
   margin-bottom: 40px;
 }
@@ -337,7 +340,7 @@ header {
 
 .nav-item-header {
   position: relative;
-  top: -16px;
+  top: -9px;
 
   width: 350px;
   height: 300px;
@@ -349,8 +352,12 @@ header {
   height: 956px;
 }
 
+.mg-top-12px {
+  margin-top: 12px;
+}
+
 .style-num {
-  margin: 0 0 30px 0;
+  margin: 5px 0 39px 0;
 
   font: 64px/1 'neucha', sans-serif;
 }
