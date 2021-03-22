@@ -107,6 +107,10 @@ header {
   content: '';
 }
 
+.clear-white {
+  background: var(--clear-white-color);
+}
+
 .color-clear-dark {
   color: var(--clear-dark-color);
 }
@@ -309,7 +313,7 @@ header {
   margin: 10px 16px;
   padding: 24px;
 
-  background: var(--white-color);
+  background: var(--clear-white-color);
 }
 
 .nav-item span {
@@ -341,9 +345,13 @@ header {
   line-height: 62px;
 }
 
+.h-991px {
+  height: 991px;
+}
+
 .nav-item-header {
   position: relative;
-  top: -7px;
+  top: -8px;
 
   width: 350px;
   height: 300px;
